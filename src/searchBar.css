@@ -1,0 +1,14 @@
+/* Ваш файл searchBar.css */
+
+.search-bar input {
+  padding: 5px;
+  border-radius: 10px; /* Задаем радиус закругления */
+  border: 2px solid #000000;
+  width: 200px; /* Настройте ширину по вашему усмотрению */
+  margin-right: 10px;
+  outline: none;
+
+}
+
+/* Дополнительные стили могут быть добавлены по вашему желанию */
+ 

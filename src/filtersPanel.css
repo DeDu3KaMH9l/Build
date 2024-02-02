@@ -1,0 +1,21 @@
+/* Ваш файл filtersPanel.css */
+
+.filters-panel {
+    background: #739072;
+    padding: 10px;
+    color: #ece3ce;
+    display: flex;
+    flex-direction: column;
+    /*width: 120px;
+    position: relative; */
+  }
+  
+  .filters-panel h3 {
+    margin-bottom: 10px;
+  }
+  
+  .filters-panel label {
+    margin-left: 5px;
+    margin-bottom: 5px;
+  }
+  
